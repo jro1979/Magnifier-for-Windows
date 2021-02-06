@@ -1,6 +1,8 @@
 # Magnifier-for-Windows
 
-Screen magnifier for the visually impaired
+Screen magnifier for the visually impaired.  
+Displays an onscreen magnifier that can be displayed/hidden with middle mouse button.
+C++ for Windows.  Uses Microsoft Magnifier library.
 
 Menu screen has options for: normal color, inverted, grayscale or high contrast.
 
